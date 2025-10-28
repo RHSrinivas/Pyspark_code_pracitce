@@ -1,0 +1,1433 @@
+2025-10-28 16:02:44,608 root DEBUG This is a debug message (won't be logged due to INFO level)
+2025-10-28 16:02:44,609 root INFO This is an informational message.
+2025-10-28 16:02:44,609 root WARNING This is a warning message.
+2025-10-28 16:02:44,609 root ERROR This is an error message.
+2025-10-28 16:02:44,609 root CRITICAL This is a critical message.
+2025-10-28 16:02:44,610 py4j.clientserver DEBUG Command to send: i
+java.util.HashMap
+e
+
+2025-10-28 16:02:44,611 py4j.clientserver DEBUG Answer received: !yao600
+2025-10-28 16:02:44,611 py4j.clientserver DEBUG Command to send: c
+o600
+put
+spackageNameRaw
+slogging
+e
+
+2025-10-28 16:02:44,611 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:02:44,611 py4j.clientserver DEBUG Command to send: c
+o600
+put
+spackageNameAllowlisted
+s0a149844a7c9f4cff948bf39833fcc5429ce2325e43d6b3873a22a76e956e470
+e
+
+2025-10-28 16:02:44,612 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:02:44,612 py4j.clientserver DEBUG Command to send: c
+o600
+put
+spackageHash
+s0a149844a7c9f4cff948bf39833fcc5429ce2325e43d6b3873a22a76e956e470
+e
+
+2025-10-28 16:02:44,613 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:02:44,613 py4j.clientserver DEBUG Command to send: c
+o600
+put
+spackageVersion
+sunknown
+e
+
+2025-10-28 16:02:44,613 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:02:44,613 py4j.clientserver DEBUG Command to send: c
+o417
+logUsage
+spythonPackageImported
+ro600
+n
+e
+
+2025-10-28 16:02:44,614 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:44,615 py4j.clientserver DEBUG Command to send: c
+o411
+logExecuteCommandEvent
+sDATABRICKS_SHELL_DO_EXECUTE_END
+n
+e
+
+2025-10-28 16:02:44,630 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:44,656 py4j.clientserver DEBUG Command to send: c
+o441
+logDblsUsageEvent
+sdbls_starred_imports_diagnostics_filtered
+e
+
+2025-10-28 16:02:45,007 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,007 py4j.clientserver DEBUG Command to send: c
+o441
+logDblsUsageEvent
+sdbls_starred_imports_diagnostics_filtered
+e
+
+2025-10-28 16:02:45,008 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,009 py4j.clientserver DEBUG Command to send: c
+o441
+logDblsUsageEvent
+sdbls_starred_imports_diagnostics_filtered
+e
+
+2025-10-28 16:02:45,010 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,340 py4j.clientserver DEBUG Command to send: m
+d
+o600
+e
+
+2025-10-28 16:02:45,341 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,341 py4j.clientserver DEBUG Command to send: m
+d
+o596
+e
+
+2025-10-28 16:02:45,341 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,341 py4j.clientserver DEBUG Command to send: m
+d
+o597
+e
+
+2025-10-28 16:02:45,342 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,342 py4j.clientserver DEBUG Command to send: m
+d
+o598
+e
+
+2025-10-28 16:02:45,342 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,342 py4j.clientserver DEBUG Command to send: m
+d
+o599
+e
+
+2025-10-28 16:02:45,343 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,370 py4j.clientserver DEBUG Command to send: c
+o441
+logDblsUsageEvent
+sdbls_starred_imports_diagnostics_filtered
+e
+
+2025-10-28 16:02:45,372 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,373 py4j.clientserver DEBUG Command to send: c
+o441
+logDblsUsageEvent
+sdbls_starred_imports_diagnostics_filtered
+e
+
+2025-10-28 16:02:45,374 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:45,374 py4j.clientserver DEBUG Command to send: c
+o441
+logDblsUsageEvent
+sdbls_starred_imports_diagnostics_filtered
+e
+
+2025-10-28 16:02:45,375 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:02:56,920 py4j.clientserver DEBUG Command to send: c
+t
+getSparkConnectSparkConfs
+e
+
+2025-10-28 16:02:56,921 py4j.clientserver DEBUG Answer received: !yao601
+2025-10-28 16:02:56,921 py4j.clientserver DEBUG Command to send: c
+o601
+keySet
+e
+
+2025-10-28 16:02:56,922 py4j.clientserver DEBUG Answer received: !yho602
+2025-10-28 16:02:56,922 py4j.clientserver DEBUG Command to send: c
+o602
+iterator
+e
+
+2025-10-28 16:02:56,922 py4j.clientserver DEBUG Answer received: !ygo603
+2025-10-28 16:02:56,922 py4j.clientserver DEBUG Command to send: c
+o603
+next
+e
+
+2025-10-28 16:02:56,923 py4j.clientserver DEBUG Answer received: !xro604
+2025-10-28 16:02:56,923 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:56,938 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,938 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:56,941 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,941 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:56,941 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:56,941 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:56,942 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:56,942 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.catalyst.parser.ParseException
+ro604
+e
+
+2025-10-28 16:02:56,942 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:56,942 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:56,957 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,957 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:56,959 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,959 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:56,960 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:56,960 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:56,960 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:56,960 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.AnalysisException
+ro604
+e
+
+2025-10-28 16:02:56,961 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:56,961 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:56,975 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,976 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:56,978 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,978 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:56,979 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:56,979 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:56,979 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:56,979 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.streaming.StreamingQueryException
+ro604
+e
+
+2025-10-28 16:02:56,980 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:56,980 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:56,994 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,995 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:56,997 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:56,997 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:56,997 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:56,997 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:56,998 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:56,998 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.execution.QueryExecutionException
+ro604
+e
+
+2025-10-28 16:02:56,998 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:56,998 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,013 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,014 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,016 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,016 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,017 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,017 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,017 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,017 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.NumberFormatException
+ro604
+e
+
+2025-10-28 16:02:57,018 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,018 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,033 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,033 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,035 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,036 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,036 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,036 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,036 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,037 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.IllegalArgumentException
+ro604
+e
+
+2025-10-28 16:02:57,037 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,037 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,052 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,053 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,055 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,056 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,056 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,056 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,056 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,057 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.ArithmeticException
+ro604
+e
+
+2025-10-28 16:02:57,057 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,057 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,073 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,074 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,076 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,076 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,076 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,077 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,077 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,077 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.UnsupportedOperationException
+ro604
+e
+
+2025-10-28 16:02:57,078 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,078 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,092 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,093 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,095 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,095 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,095 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,096 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,096 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,096 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.ArrayIndexOutOfBoundsException
+ro604
+e
+
+2025-10-28 16:02:57,096 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,097 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,113 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,114 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,116 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,116 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,117 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,117 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,117 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,119 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.time.DateTimeException
+ro604
+e
+
+2025-10-28 16:02:57,119 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,120 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,136 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,136 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,139 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,139 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,139 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,140 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,140 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,140 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.SparkRuntimeException
+ro604
+e
+
+2025-10-28 16:02:57,140 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,141 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,157 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,157 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,159 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,160 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,160 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,161 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,161 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,162 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.SparkUpgradeException
+ro604
+e
+
+2025-10-28 16:02:57,162 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,162 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:02:57,178 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,178 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:02:57,180 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,181 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:02:57,181 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:02:57,181 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:02:57,182 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,182 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.SparkNoSuchElementException
+ro604
+e
+
+2025-10-28 16:02:57,182 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:02:57,183 py4j.clientserver DEBUG Command to send: c
+o604
+toString
+e
+
+2025-10-28 16:02:57,183 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator
+2025-10-28 16:02:57,183 py4j.clientserver DEBUG Command to send: c
+o604
+getCause
+e
+
+2025-10-28 16:02:57,184 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:02:57,184 py4j.clientserver DEBUG Command to send: r
+u
+org
+rj
+e
+
+2025-10-28 16:02:57,199 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,200 py4j.clientserver DEBUG Command to send: r
+u
+org.apache
+rj
+e
+
+2025-10-28 16:02:57,202 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,202 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark
+rj
+e
+
+2025-10-28 16:02:57,205 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,205 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util
+rj
+e
+
+2025-10-28 16:02:57,207 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,207 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util.Utils
+rj
+e
+
+2025-10-28 16:02:57,208 py4j.clientserver DEBUG Answer received: !ycorg.apache.spark.util.Utils
+2025-10-28 16:02:57,208 py4j.clientserver DEBUG Command to send: r
+m
+org.apache.spark.util.Utils
+exceptionString
+e
+
+2025-10-28 16:02:57,208 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,208 py4j.clientserver DEBUG Command to send: c
+z:org.apache.spark.util.Utils
+exceptionString
+ro604
+e
+
+2025-10-28 16:02:57,209 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:41)\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:39)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:204)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:197)\n	at java.base/java.util.AbstractMap$1$1.next(AbstractMap.java:359)\n	at java.base/jdk.internal.reflect.GeneratedMethodAccessor374.invoke(Unknown Source)\n	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n	at java.base/java.lang.reflect.Method.invoke(Method.java:569)\n	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)\n	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:397)\n	at py4j.Gateway.invoke(Gateway.java:306)\n	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)\n	at py4j.commands.CallCommand.execute(CallCommand.java:79)\n	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:197)\n	at py4j.ClientServerConnection.run(ClientServerConnection.java:117)\n	at java.base/java.lang.Thread.run(Thread.java:840)\n
+2025-10-28 16:02:57,209 py4j.clientserver DEBUG Command to send: c
+o604
+getCause
+e
+
+2025-10-28 16:02:57,209 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:02:57,209 py4j.clientserver DEBUG Command to send: r
+u
+org
+rj
+e
+
+2025-10-28 16:02:57,225 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,225 py4j.clientserver DEBUG Command to send: r
+u
+org.apache
+rj
+e
+
+2025-10-28 16:02:57,228 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,228 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark
+rj
+e
+
+2025-10-28 16:02:57,231 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,231 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util
+rj
+e
+
+2025-10-28 16:02:57,233 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:02:57,234 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util.Utils
+rj
+e
+
+2025-10-28 16:02:57,234 py4j.clientserver DEBUG Answer received: !ycorg.apache.spark.util.Utils
+2025-10-28 16:02:57,234 py4j.clientserver DEBUG Command to send: r
+m
+org.apache.spark.util.Utils
+exceptionString
+e
+
+2025-10-28 16:02:57,234 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:02:57,234 py4j.clientserver DEBUG Command to send: c
+z:org.apache.spark.util.Utils
+exceptionString
+ro604
+e
+
+2025-10-28 16:02:57,235 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:41)\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:39)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:204)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:197)\n	at java.base/java.util.AbstractMap$1$1.next(AbstractMap.java:359)\n	at java.base/jdk.internal.reflect.GeneratedMethodAccessor374.invoke(Unknown Source)\n	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n	at java.base/java.lang.reflect.Method.invoke(Method.java:569)\n	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)\n	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:397)\n	at py4j.Gateway.invoke(Gateway.java:306)\n	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)\n	at py4j.commands.CallCommand.execute(CallCommand.java:79)\n	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:197)\n	at py4j.ClientServerConnection.run(ClientServerConnection.java:117)\n	at java.base/java.lang.Thread.run(Thread.java:840)\n
+2025-10-28 16:02:57,235 py4j.clientserver DEBUG Command to send: c
+o604
+toString
+e
+
+2025-10-28 16:02:57,235 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator
+2025-10-28 16:02:57,281 py4j.clientserver DEBUG Command to send: c
+o421
+logServerlessKeepaliveEvent
+n
+n
+e
+
+2025-10-28 16:02:57,282 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:00,980 py4j.clientserver INFO Received command c on object id p0
+2025-10-28 16:03:00,986 py4j.clientserver DEBUG Command to send: c
+o411
+logExecuteCommandEvent
+sDATABRICKS_SHELL_DO_EXECUTE_START
+n
+e
+
+2025-10-28 16:03:00,987 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:00,988 py4j.clientserver DEBUG Command to send: c
+o411
+logExecuteCommandEvent
+sSWAP_REMOTE_SPARK_CLIENT
+n
+e
+
+2025-10-28 16:03:00,989 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:00,990 py4j.clientserver DEBUG Command to send: c
+o422
+longQueryExecutionWarningEnabled
+e
+
+2025-10-28 16:03:00,990 py4j.clientserver DEBUG Answer received: !ybtrue
+2025-10-28 16:03:00,992 py4j.clientserver DEBUG Command to send: c
+o407
+recordFunctionCallSuccessEvent
+spyspark.sql.window
+sWindow
+spartitionBy
+s(*cols: Union[ForwardRef('ColumnOrName'), List[ForwardRef('ColumnOrName_')]]) -> 'WindowSpec'
+s{"duration": 0.035412999750406016}
+e
+
+2025-10-28 16:03:00,993 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:01,002 py4j.clientserver DEBUG Command to send: c
+t
+getSparkConnectSparkConfs
+e
+
+2025-10-28 16:03:01,003 py4j.clientserver DEBUG Answer received: !yao605
+2025-10-28 16:03:01,003 py4j.clientserver DEBUG Command to send: c
+o605
+keySet
+e
+
+2025-10-28 16:03:01,003 py4j.clientserver DEBUG Answer received: !yho606
+2025-10-28 16:03:01,003 py4j.clientserver DEBUG Command to send: c
+o606
+iterator
+e
+
+2025-10-28 16:03:01,004 py4j.clientserver DEBUG Answer received: !ygo607
+2025-10-28 16:03:01,004 py4j.clientserver DEBUG Command to send: c
+o607
+next
+e
+
+2025-10-28 16:03:01,004 py4j.clientserver DEBUG Answer received: !xro608
+2025-10-28 16:03:01,004 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,020 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,020 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,022 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,022 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,023 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,023 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,023 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,023 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.catalyst.parser.ParseException
+ro608
+e
+
+2025-10-28 16:03:01,024 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,024 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,039 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,040 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,042 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,042 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,043 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,043 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,043 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,043 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.AnalysisException
+ro608
+e
+
+2025-10-28 16:03:01,043 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,043 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,059 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,059 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,062 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,062 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,062 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,062 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,063 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,063 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.streaming.StreamingQueryException
+ro608
+e
+
+2025-10-28 16:03:01,063 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,064 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,079 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,080 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,082 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,082 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,082 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,083 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,083 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,083 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.sql.execution.QueryExecutionException
+ro608
+e
+
+2025-10-28 16:03:01,084 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,084 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,099 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,100 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,102 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,102 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,103 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,103 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,103 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,103 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.NumberFormatException
+ro608
+e
+
+2025-10-28 16:03:01,104 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,104 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,119 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,120 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,122 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,122 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,123 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,123 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,123 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,123 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.IllegalArgumentException
+ro608
+e
+
+2025-10-28 16:03:01,124 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,124 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,139 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,140 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,142 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,142 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,142 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,143 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,143 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,143 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.ArithmeticException
+ro608
+e
+
+2025-10-28 16:03:01,143 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,143 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,159 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,159 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,161 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,161 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,162 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,162 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,162 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,163 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.UnsupportedOperationException
+ro608
+e
+
+2025-10-28 16:03:01,163 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,163 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,178 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,179 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,181 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,181 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,181 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,182 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,182 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,182 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.lang.ArrayIndexOutOfBoundsException
+ro608
+e
+
+2025-10-28 16:03:01,182 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,182 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,198 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,198 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,200 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,200 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,201 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,201 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,201 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,201 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sjava.time.DateTimeException
+ro608
+e
+
+2025-10-28 16:03:01,202 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,202 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,216 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,217 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,219 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,219 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,220 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,220 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,220 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,220 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.SparkRuntimeException
+ro608
+e
+
+2025-10-28 16:03:01,221 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,221 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,236 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,237 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,239 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,239 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,240 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,240 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,240 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,240 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.SparkUpgradeException
+ro608
+e
+
+2025-10-28 16:03:01,240 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,241 py4j.clientserver DEBUG Command to send: r
+u
+py4j
+rj
+e
+
+2025-10-28 16:03:01,256 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,257 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection
+rj
+e
+
+2025-10-28 16:03:01,259 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,259 py4j.clientserver DEBUG Command to send: r
+u
+py4j.reflection.TypeUtil
+rj
+e
+
+2025-10-28 16:03:01,259 py4j.clientserver DEBUG Answer received: !ycpy4j.reflection.TypeUtil
+2025-10-28 16:03:01,260 py4j.clientserver DEBUG Command to send: r
+m
+py4j.reflection.TypeUtil
+isInstanceOf
+e
+
+2025-10-28 16:03:01,260 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,260 py4j.clientserver DEBUG Command to send: c
+z:py4j.reflection.TypeUtil
+isInstanceOf
+sorg.apache.spark.SparkNoSuchElementException
+ro608
+e
+
+2025-10-28 16:03:01,260 py4j.clientserver DEBUG Answer received: !ybfalse
+2025-10-28 16:03:01,261 py4j.clientserver DEBUG Command to send: c
+o608
+toString
+e
+
+2025-10-28 16:03:01,261 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator
+2025-10-28 16:03:01,261 py4j.clientserver DEBUG Command to send: c
+o608
+getCause
+e
+
+2025-10-28 16:03:01,261 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:03:01,262 py4j.clientserver DEBUG Command to send: r
+u
+org
+rj
+e
+
+2025-10-28 16:03:01,278 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,278 py4j.clientserver DEBUG Command to send: r
+u
+org.apache
+rj
+e
+
+2025-10-28 16:03:01,280 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,281 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark
+rj
+e
+
+2025-10-28 16:03:01,283 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,283 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util
+rj
+e
+
+2025-10-28 16:03:01,286 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,286 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util.Utils
+rj
+e
+
+2025-10-28 16:03:01,286 py4j.clientserver DEBUG Answer received: !ycorg.apache.spark.util.Utils
+2025-10-28 16:03:01,286 py4j.clientserver DEBUG Command to send: r
+m
+org.apache.spark.util.Utils
+exceptionString
+e
+
+2025-10-28 16:03:01,286 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,287 py4j.clientserver DEBUG Command to send: c
+z:org.apache.spark.util.Utils
+exceptionString
+ro608
+e
+
+2025-10-28 16:03:01,287 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:41)\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:39)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:204)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:197)\n	at java.base/java.util.AbstractMap$1$1.next(AbstractMap.java:359)\n	at java.base/jdk.internal.reflect.GeneratedMethodAccessor374.invoke(Unknown Source)\n	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n	at java.base/java.lang.reflect.Method.invoke(Method.java:569)\n	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)\n	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:397)\n	at py4j.Gateway.invoke(Gateway.java:306)\n	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)\n	at py4j.commands.CallCommand.execute(CallCommand.java:79)\n	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:197)\n	at py4j.ClientServerConnection.run(ClientServerConnection.java:117)\n	at java.base/java.lang.Thread.run(Thread.java:840)\n
+2025-10-28 16:03:01,287 py4j.clientserver DEBUG Command to send: c
+o608
+getCause
+e
+
+2025-10-28 16:03:01,288 py4j.clientserver DEBUG Answer received: !yn
+2025-10-28 16:03:01,288 py4j.clientserver DEBUG Command to send: r
+u
+org
+rj
+e
+
+2025-10-28 16:03:01,304 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,304 py4j.clientserver DEBUG Command to send: r
+u
+org.apache
+rj
+e
+
+2025-10-28 16:03:01,307 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,307 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark
+rj
+e
+
+2025-10-28 16:03:01,310 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,310 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util
+rj
+e
+
+2025-10-28 16:03:01,313 py4j.clientserver DEBUG Answer received: !yp
+2025-10-28 16:03:01,313 py4j.clientserver DEBUG Command to send: r
+u
+org.apache.spark.util.Utils
+rj
+e
+
+2025-10-28 16:03:01,313 py4j.clientserver DEBUG Answer received: !ycorg.apache.spark.util.Utils
+2025-10-28 16:03:01,314 py4j.clientserver DEBUG Command to send: r
+m
+org.apache.spark.util.Utils
+exceptionString
+e
+
+2025-10-28 16:03:01,314 py4j.clientserver DEBUG Answer received: !ym
+2025-10-28 16:03:01,314 py4j.clientserver DEBUG Command to send: c
+z:org.apache.spark.util.Utils
+exceptionString
+ro608
+e
+
+2025-10-28 16:03:01,315 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:41)\n	at scala.collection.Iterator$$anon$2.next(Iterator.scala:39)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:204)\n	at scala.collection.convert.Wrappers$MapWrapper$$anon$2$$anon$3.next(Wrappers.scala:197)\n	at java.base/java.util.AbstractMap$1$1.next(AbstractMap.java:359)\n	at java.base/jdk.internal.reflect.GeneratedMethodAccessor374.invoke(Unknown Source)\n	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n	at java.base/java.lang.reflect.Method.invoke(Method.java:569)\n	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)\n	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:397)\n	at py4j.Gateway.invoke(Gateway.java:306)\n	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)\n	at py4j.commands.CallCommand.execute(CallCommand.java:79)\n	at py4j.ClientServerConnection.waitForCommands(ClientServerConnection.java:197)\n	at py4j.ClientServerConnection.run(ClientServerConnection.java:117)\n	at java.base/java.lang.Thread.run(Thread.java:840)\n
+2025-10-28 16:03:01,315 py4j.clientserver DEBUG Command to send: c
+o608
+toString
+e
+
+2025-10-28 16:03:01,315 py4j.clientserver DEBUG Answer received: !ysjava.util.NoSuchElementException: next on empty iterator
+2025-10-28 16:03:01,345 py4j.clientserver DEBUG Command to send: m
+d
+o601
+e
+
+2025-10-28 16:03:01,346 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:01,346 py4j.clientserver DEBUG Command to send: m
+d
+o602
+e
+
+2025-10-28 16:03:01,346 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:01,347 py4j.clientserver DEBUG Command to send: m
+d
+o603
+e
+
+2025-10-28 16:03:01,347 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:01,347 py4j.clientserver DEBUG Command to send: m
+d
+o604
+e
+
+2025-10-28 16:03:01,347 py4j.clientserver DEBUG Answer received: !yv
+2025-10-28 16:03:02,199 py4j.clientserver DEBUG Command to send: c
+o411
+logExecuteCommandEvent
+sDATABRICKS_SHELL_DO_EXECUTE_END
+n
+e
+
+2025-10-28 16:03:02,221 py4j.clientserver DEBUG Answer received: !yv
